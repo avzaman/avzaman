@@ -4,7 +4,7 @@ Hi there! I'm Amir Zaman, a passionate developer from New Jersey. 👋
 
 ## About Me
 
-- 🔭 I’m currently working on [Project Name]
+- 🔭 I’m currently working on a Social Media website 
 - 🌱 I’m currently learning NoSql and C++ web programming
 
 ## GitHub Stats
