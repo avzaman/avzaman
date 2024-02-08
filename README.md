@@ -5,7 +5,7 @@ Hi there! I'm Amir Zaman, a passionate developer from New Jersey. 👋
 ## About Me
 
 - 🔭 I’m currently working on US census data research at Kean University.
-- 🌱 I’m currently learning NoSql with MongoDB.
+- 🌱 I’m barreling my way through learning NoSql with MongoDB.
 - ⚡ Fun fact: I learned python during 2023's Advent of Code!
 - 👉 Check out my Database Webstore project [HERE!](https://obi.kean.edu/~zamanam@kean.edu/CPS3740/)
 
