@@ -21,7 +21,7 @@ Hi there! I'm Amir Zaman, a passionate developer from New Jersey. 👋
 
 ## Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/avzaman/)
+- [LinkedIn](https://www.linkedin.com/in/zamanam/)
 - [Leetcode](https://leetcode.com/avzaman/)
 
 <!--
