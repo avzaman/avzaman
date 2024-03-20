@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile!
 
-Hi there! I'm Amir Zaman, a passionate developer from New Jersey. 👋
+Hi there! I'm Amir Zaman, a passionate developer from the United States. 👋
 
 ## About Me
 
