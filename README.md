@@ -2,6 +2,12 @@
 
 Hi there! I'm Amir Zaman, a passionate developer from the United States. 👋
 
+## Connect with Me
+
+- [Portfolio](avzaman.terredyne.com)
+- [LinkedIn](https://www.linkedin.com/in/zamanam/)
+- [Leetcode](https://leetcode.com/avzaman/)
+
 ## About Me
 
 - 🔭 I’m currently working on US census data research at Kean University.
@@ -18,12 +24,6 @@ Hi there! I'm Amir Zaman, a passionate developer from the United States. 👋
   </picture>
 </a>
 <!-- Made with [OSS Insight](https://ossinsight.io/) -->
-
-## Connect with Me
-
-- [LinkedIn](https://www.linkedin.com/in/zamanam/)
-- [Leetcode](https://leetcode.com/avzaman/)
-
 <!--
 **avzaman/avzaman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
