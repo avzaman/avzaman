@@ -4,7 +4,7 @@ Hi there! I'm Amir Zaman, a passionate developer from the United States. 👋
 
 ## Connect with Me
 
-- [Portfolio](https://avzaman.terredyne.com)
+- [Portfolio](http://avzaman.terredyne.com)
 - [LinkedIn](https://www.linkedin.com/in/zamanam/)
 - [Leetcode](https://leetcode.com/avzaman/)
 
