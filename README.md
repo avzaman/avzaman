@@ -10,10 +10,10 @@ Hi there! I'm Amir Zaman, a passionate developer from the United States. 👋
 
 ## About Me
 
-- 🔭 I’m currently working on US census data research at Kean University.
-- 🌱 I’m barreling my way through learning NoSql with MongoDB.
+- 🔭 I’m currently working on Sprucing up my portfolio site with VUE.
+- 🌱 I’m barreling my way through graduate school applications.
 - ⚡ Fun fact: I learned python during 2023's Advent of Code!
-- 👉 Check out my Database Webstore project [HERE!](https://obi.kean.edu/~zamanam@kean.edu/CPS3740/)
+- 👉 Check out my NoSql Database Social Media project [HERE!]([https://obi.kean.edu/~zamanam@kean.edu/CPS3740/](https://d1cr06rwgaygko.cloudfront.net/AvzamanSocial/social-feed.php))
 
 ## GitHub Stats
 <!-- Copy-paste in your Readme.md file -->
@@ -26,15 +26,3 @@ Hi there! I'm Amir Zaman, a passionate developer from the United States. 👋
 <!-- Made with [OSS Insight](https://ossinsight.io/) -->
 <!--
 **avzaman/avzaman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
