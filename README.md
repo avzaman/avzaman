@@ -5,7 +5,7 @@ Hi there! I'm Amir Zaman, a passionate developer from the United States. 👋
 ## Connect with Me
 
 - [Portfolio](https://avzaman.netlify.app/)
-- [LinkedIn](https://www.linkedin.com/in/zamanam/)
+- [LinkedIn](https://www.linkedin.com/in/avzaman/)
 - [Leetcode](https://leetcode.com/avzaman/)
 
 ## About Me
