@@ -13,7 +13,7 @@ Hi there! I'm Amir Zaman, a passionate developer from the United States. 👋
 - 🔭 I’m currently working on Sprucing up my portfolio site with VUE.
 - 🌱 I’m barreling my way through graduate school applications.
 - ⚡ Fun fact: I learned python during 2023's Advent of Code!
-- 👉 Check out my NoSql Database Social Media project [HERE!][https://d1cr06rwgaygko.cloudfront.net/AvzamanSocial/social-feed.php]
+- 👉 Check out my NoSql Database Social Media project [HERE!](https://d1cr06rwgaygko.cloudfront.net/AvzamanSocial/social-feed.php)
 
 ## GitHub Stats
 <!-- Copy-paste in your Readme.md file -->
