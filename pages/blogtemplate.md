@@ -1,2 +1,3 @@
-<!--#include file="header.html" -->
-<!--#include file="footer.html" -->
+---
+title: Blog Template
+---
