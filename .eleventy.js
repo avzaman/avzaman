@@ -1,5 +1,6 @@
 // .eleventy.js
 module.exports = function (eleventyConfig) {
+    eleventyConfig.addPassthroughCopy("assets");
     return {
         markdownTemplateEngine: "njk",
         htmlTemplateEngine: "njk",
@@ -9,7 +10,7 @@ module.exports = function (eleventyConfig) {
             includes: "_includes",
             output: "_site"
         },
-        templateFormats: ["md", "html"],
+        templateFormats: ["md", "html","png","jpg","gif"],
         passthroughFileCopy: true
     };
 };

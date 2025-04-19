@@ -1,0 +1,48 @@
+/***********/
+/* HEADER */
+/***********/
+body{
+    display: flex;
+    flex-direction: column;
+}
+
+header{
+    background-color: lightskyblue;
+    display: flex;
+    flex-direction: column;
+}
+
+/*personal info area*/
+.hero{
+    display: flex;
+    flex-direction: row;
+}
+.heroimg{
+    max-width: 20%;
+    height: auto;
+    flex-basis: 20%;
+}
+.contacts{
+    list-style: none;
+}
+
+/*nav area*/
+.pages{
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+    font-family: 'Courier New', Courier, monospace;
+}
+.page{
+    padding: 5px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+/***********/
+/*FOOTER*/
+/***********/
+footer{
+    background-color: lightskyblue;
+    padding: 5%;
+    text-align: center;
+}

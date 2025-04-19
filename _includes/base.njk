@@ -5,18 +5,19 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="icon" href="{{ '/assets/img/favicon.png' | url }}" type="image/x-icon">
     <title>{{ title }}</title> <!-- This comes from the page's front matter -->
-    <link rel="stylesheet" href="/styles/styles.css" />
+    <link rel="stylesheet" href="/assets/styles/styles.css" />
 </head>
 
 <body>
-    {% include "header.html" %} <!-- shared header -->
+    {% include "header.njk" %} <!-- shared header -->
 
     <main>
         {{ content | safe }} <!-- this is where the page's content goes -->
     </main>
 
-    {% include "footer.html" %} <!-- shared footer -->
+    {% include "footer.njk" %} <!-- shared footer -->
 </body>
 
 </html>
