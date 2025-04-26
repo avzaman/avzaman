@@ -35,6 +35,8 @@ Most content pages must be php as im using "include" for reusable header footer.
 https://looks.wtf/
 https://www.11ty.dev/
 CSS GOAT -> https://www.youtube.com/watch?v=i1FeOOhNnwU
+https://yoksel.github.io/flex-cheatsheet/
+
 
 ## Plan:
 Include **header.html** at the top of every page, include **footer.html** at the bottom of every page. All files then should only include content between &lt;body&gt;&lt;/body&gt; tags.
