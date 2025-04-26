@@ -6,7 +6,7 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="icon" href="/assets/img/favicon.png" type="image/x-icon">
-    <title>Blog</title> <!-- This comes from the page's front matter -->
+    <title>Home/Resume</title> <!-- This comes from the page's front matter -->
     <link rel="stylesheet" href="/assets/styles/styles.css" />
 </head>
 
@@ -24,20 +24,19 @@
     <div class="nav">
         <ul class="pages">
             <li class="page"><a href="/index/">Resume</a></li>
-            <li class="page"><a href="/pages/blog/">Blog</a></li>
-            <li class="page"><a href="/pages/work/">Work</a></li>
-            <li class="page"><a href="/pages/projects/">Projects</a></li>
-            <li class="page"><a href="/pages/community/">Community</a></li>
-            <li class="page"><a href="/pages/certifications/">Certifications</a></li>
+            <li class="page"><a href="/pages/blog.html">Blog</a></li>
+            <li class="page"><a href="/pages/work.md">Work</a></li>
+            <li class="page"><a href="/pages/projects.md">Projects</a></li>
+            <li class="page"><a href="/pages/community.md">Community</a></li>
+            <li class="page"><a href="/pages/certifications.md">Certifications</a></li>
         </ul>
     </div>
 </header> <!-- shared header -->
 
     <main>
-        <p>
-    Check out my first blog post:
-    <a href="/assets/blogs/4-19-2025/">Simple Powershell ｏ( ><)o CS to IT! 4-19-2025</a>
-    More to come biweekly, as well as making this site look nice.
+        <p><b>UH OH</b></p>
+<p>
+    &lt; Site under maintainanence! But check out my blog <3 &gt;
 </p> <!-- this is where the page's content goes -->
     </main>
 

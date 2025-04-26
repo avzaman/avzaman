@@ -31,6 +31,10 @@ Most content pages must be php as im using "include" for reusable header footer.
 * favicon.ico
 * README.md
 
+## Important Links:
+https://looks.wtf/
+https://www.11ty.dev/
+
 ## Plan:
 Include **header.html** at the top of every page, include **footer.html** at the bottom of every page. All files then should only include content between &lt;body&gt;&lt;/body&gt; tags.
 
@@ -46,3 +50,7 @@ I think I just discovered a way to include html without php and can therefore ke
 **Alright** I concede, I really want to just have a header foot. Im gonna front load this. Im making this project in eleventy. Most of the initial steps and JS code are from chatgpt. But im leaving the elevnty documentation [link here](https://www.11ty.dev/) so I can learn this over the course of me running this site. Eventually will be cool to migrate this to AWS and actually know some javascript. Get my own domain name, do some lambda, heck yeah.
 
 Just like with grabbing github projects eventually, I would like to also grab my leetcode solutions that I submit. I think it would be *cute*!
+
+Alright *sigh*, back to md except header and footer because those will have consistent styling. There is a plugin for eleventy for md styling which Ill get installed today as well. But for now change file names, style header and footer. **STYLE MOBILE FIRST**
+
+Also need to change hero pic to something more friendly.

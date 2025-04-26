@@ -1,48 +1,95 @@
-/***********/
-/* HEADER */
-/***********/
-body{
-    display: flex;
-    flex-direction: column;
-}
+@media only screen and (max-width: 1920px) {
 
-header{
-    background-color: lightskyblue;
-    display: flex;
-    flex-direction: column;
-}
+    /***********/
+    /* HEADER */
+    /***********/
+    body {
+        font-family: 'Courier New', Courier, monospace;
+        padding:0px;
+        margin:0px;
+        color:black;
+    }
 
-/*personal info area*/
-.hero{
-    display: flex;
-    flex-direction: row;
-}
-.heroimg{
-    max-width: 20%;
-    height: auto;
-    flex-basis: 20%;
-}
-.contacts{
-    list-style: none;
-}
+    header {
+        background-color:blue;
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+        align-items:stretch;
+    }
 
-/*nav area*/
-.pages{
-    display: flex;
-    flex-direction: row;
-    list-style: none;
-    font-family: 'Courier New', Courier, monospace;
-}
-.page{
-    padding: 5px;
-    font-family: 'Courier New', Courier, monospace;
-}
+    /*personal info area*/
+    .hero {
+        display: flex;
+        flex-direction: row;
+        flex-wrap:wrap;
+        justify-content: flex-start;
+        border-width:5px;
+        border-style:outset;
+        border-color:lightgray;
+    }
 
-/***********/
-/*FOOTER*/
-/***********/
-footer{
-    background-color: lightskyblue;
-    padding: 5%;
-    text-align: center;
+    .heroimg {
+        height: auto;
+        flex-basis: 20%;
+        max-width: 20%;
+        min-width:20%;
+    }
+
+    .contacts {
+        color:white;
+        padding-left:10px;
+    }
+
+    /*nav area*/
+    .pages {
+        display: flex;
+        flex-direction: row;
+        flex-wrap:wrap;
+        justify-content:flex-start;
+        border-style:outset;
+        border-width:5px;
+        border-color:lightgrey;
+    }
+    .page {
+        border-style:inset;
+        border-top-width: 5px;
+        border-color:gray;
+        padding: 5px;
+    }
+    .page a:link, .page a:visited{
+        color:white;
+        /*text-decoration: none;*/
+    }
+    a:hover, a:active{
+        text-decoration: underline;
+        text-decoration-style: solid;
+        text-decoration-color: white;
+        text-decoration-thickness: 2px;
+        text-decoration: none;
+    }
+
+    
+
+    /***********/
+    /*FOOTER*/
+    /***********/
+    footer {
+        background-color: blue;
+        color:white;
+        padding: 5%;
+        text-align: center;
+    }
+
+    /**********/
+    /*BLOG*/
+    /*********/
+    pre{
+        border-left-width:10px;
+        border-left-style:solid;
+        border-left-color:black;
+        background-color:black;
+        color:rgb(15, 187, 15);
+        text-shadow: 1px 1px 2px rgb(0, 197, 16);
+    }
 }
