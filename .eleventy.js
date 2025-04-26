@@ -11,7 +11,7 @@ module.exports = function (eleventyConfig) {
             includes: "_includes",
             output: "_site"
         },
-        templateFormats: ["md", "html","png","jpg","gif"],
+        templateFormats: ["md","njk", "html","png","jpg","gif"],
         passthroughFileCopy: true
     };
 };
