@@ -1,6 +1,7 @@
 // .eleventy.js
 module.exports = function (eleventyConfig) {
     eleventyConfig.addPassthroughCopy("assets");
+    eleventyConfig.addPassthroughCopy("pages");
     return {
         markdownTemplateEngine: "njk",
         htmlTemplateEngine: "njk",

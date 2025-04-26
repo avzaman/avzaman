@@ -2,4 +2,4 @@
 layout: base.njk
 title: Certifications
 ---
-## POG
+Sec+ A+ CCNA
