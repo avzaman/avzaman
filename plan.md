@@ -57,3 +57,4 @@ Just like with grabbing github projects eventually, I would like to also grab my
 Alright *sigh*, back to md except header and footer because those will have consistent styling. There is a plugin for eleventy for md styling which Ill get installed today as well. But for now change file names, style header and footer. **STYLE MOBILE FIRST**
 
 Also need to change hero pic to something more friendly.
+Next todo: research windows 95 look
