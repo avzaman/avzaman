@@ -2,4 +2,11 @@
 layout: base.njk
 title: Project
 ---
-My github will be linked soon!
+# Networking Home Lab
+Network Topology Independent Study
+
+# X (formerly Twitter) Clone "V"
+DataBase Independent Study
+
+# Utility Disparity Analysis
+Research project at Kean
