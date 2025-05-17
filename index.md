@@ -8,7 +8,7 @@ title: Home/Resume
 
 # Skills
 ### Languages
-Java, Python, PHP, Powershell, Bash, HTML, CSS
+Java, C, Python, PHP, Powershell, Bash, HTML, CSS
 ### Database
 MySQL, MongoDB, SQL Server, Postgres
 ### Networking
