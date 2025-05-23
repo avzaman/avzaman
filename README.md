@@ -1,6 +1,5 @@
-# Welcome to My GitHub Profile!
-
-Hi there! I'm Amir Zaman, a passionate developer from the United States. 👋
+# Well Howdy Doo
+Welcome to my github profile. My name is Amir Zaman, most call me Vince though.
 
 ## Connect with Me
 
@@ -10,7 +9,7 @@ Hi there! I'm Amir Zaman, a passionate developer from the United States. 👋
 
 ## About Me
 
-- 🔭 I’m currently working on Sprucing up my portfolio site with VUE.
+- 🔭 I’m currently working on Sprucing up my portfolio site have that Windows 95 essance.
 - 🌱 I’m barreling my way through graduate school applications.
 - ⚡ Fun fact: I learned python during 2023's Advent of Code!
 - 👉 Check out my NoSql Database Social Media project [HERE!](https://d173s6iimxj6sw.cloudfront.net/AvzamanSocial/social-feed.php)

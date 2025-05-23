@@ -146,7 +146,17 @@ footer {
     background-color: #bdbdbd;
     color: black;
     padding: 10px;
-    text-align: right;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+}
+footer img{
+    width:50px;
+    height: auto;
+}
+footer a:hover, footer a:hover{
+    border-style:none;
+    border-width: 0px;
 }
 
 /**********/
