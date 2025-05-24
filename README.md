@@ -1,20 +1,11 @@
-# Well Howdy Doo
+# Well Howdy 🤠
 Welcome to my github profile. My name is Amir Zaman, most call me Vince though.
 
-## Connect with Me
+### 🎨 [Portfolio](https://avzaman.netlify.app/) 🎨
+### 🥨 [LinkedIn](https://www.linkedin.com/in/avzaman/) 🥨
+### 🧩 [Leetcode](https://leetcode.com/avzaman/) 🧩
 
-- [Portfolio](https://avzaman.netlify.app/)
-- [LinkedIn](https://www.linkedin.com/in/avzaman/)
-- [Leetcode](https://leetcode.com/avzaman/)
-
-## About Me
-
-- 🔭 I’m currently working on Sprucing up my portfolio site have that Windows 95 essance.
-- 🌱 I’m barreling my way through graduate school applications.
-- ⚡ Fun fact: I learned python during 2023's Advent of Code!
-- 👉 Check out my NoSql Database Social Media project [HERE!](https://d173s6iimxj6sw.cloudfront.net/AvzamanSocial/social-feed.php)
-
-## GitHub Stats
+## Some Github Stats
 <!-- Copy-paste in your Readme.md file -->
 <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=107433933" target="_blank" style="display: block" align="center">
   <picture>

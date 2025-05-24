@@ -127,6 +127,10 @@ a:active {
     text-decoration: none;
 }
 
+.appicon a{
+    border-style: none;
+}
+
 /**********/
 /*MAIN (content)*/
 /*********/
@@ -155,8 +159,9 @@ footer img{
     height: auto;
 }
 footer a:hover, footer a:hover{
-    border-style:none;
-    border-width: 0px;
+    border-style:dashed;
+    border-width: 1px;
+    border-color: rgba(0,0,0,0);
 }
 
 /**********/
