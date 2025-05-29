@@ -12,6 +12,9 @@ body {
     border-style: outset;
     border-color: #e0e0e0;
 }
+body h4{
+    margin:2px;
+}
 
 #bgwrapper {
     background-color: #bdbdbd;
