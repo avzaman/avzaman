@@ -11,7 +11,6 @@ Tau Sigma Transfer Student Honors Society<br>
 NSF STEM Award<br>
 ### Raritan Valley Community College
 **A.S. Computer Science**
-### Cisco Certified Network Associate (CCNA)
 ### CompTIA Security+
 Verification Code:  M3WYWE2SCE14QNKL<br>
 [Verification Site](http://verify.CompTIA.org)
