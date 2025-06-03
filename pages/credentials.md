@@ -2,18 +2,18 @@
 layout: base.njk
 title: Credentials
 ---
-### Kean University
+### <ins>Kean University</ins>
 **B.S. Computer Science, Minor in Mathematics**<br>
 Summa Cum Laude<br>
 GPA: 3.9<br>
-Deans List all semesters<br>
-Tau Sigma Transfer Student Honors Society<br>
+Deans List<br>
+Tau Sigma Honors Society<br>
 NSF STEM Award<br>
-### Raritan Valley Community College
+### <ins>Raritan Valley Community College</ins>
 **A.S. Computer Science**
-### CompTIA Security+
+### <ins>CompTIA Security+</ins>
 Verification Code:  M3WYWE2SCE14QNKL<br>
 [Verification Site](http://verify.CompTIA.org)
-### CompTIA A+
+### <ins>CompTIA A+</ins>
 Verification Code:  40Y53QZQ2FQ11W57<br>
 [Verification Site](http://verify.CompTIA.org)
