@@ -1,8 +1,7 @@
 # Well Howdy
 Welcome to my github profile. My name is Amir Zaman, most call me Vince though.
 
-### 🎨 [Portfolio](https://avzaman.netlify.app/) 🎨
-### 🥨 [LinkedIn](https://www.linkedin.com/in/avzaman/) 🥨
+### 🎨 [Portfolio](https://avzaman.dev/) 🎨
 ### 🧩 [Leetcode](https://leetcode.com/avzaman/) 🧩
 
 My projects tend to cover a wide variety of technologies as I experiment with stuff new to me! Currently I've created a:
