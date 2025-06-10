@@ -3,35 +3,33 @@ layout: base.njk
 title: Home/Resume
 ---
 ## <ins>Skills</ins>
-
-**Programming Languages:**  
-Java, Python, C/C++, C#, PHP, JavaScript, PowerShell, Bash, HTML, CSS
-
+**Languages:**  
+Java, Python, C/C++, C#, PHP, JavaScript, PowerShell, Bash, HTML, CSS  
 **Databases:**  
-MongoDB, MySQL, PostgreSQL, SQL Server
-
-**Software Engineering & Tools:**  
-Git/GitHub, REST APIs, Spring Boot, Maven, Apache, IIS, Automation, Debugging, Performance Benchmarking, Object-Oriented Programming (OOP)
-
-**Computer Science Foundations:**  
-Data Structures, Algorithms, Operating Systems, Statistics, Combinatorics
-
-**Cloud & Deployment:**  
-AWS (EC2, CloudFront), Linux/Unix, Windows Server, CI/CD (via scripting and cron jobs)
-
+MongoDB, MySQL, PostgreSQL, SQL Server  
+**Engineering & Tools:**    
+Git, REST APIs, Spring Boot, Maven, Apache, IIS, Automation, Debugging, Benchmarking  
+**CS Fundamentals:**    
+Data Structures, Algorithms, OS, Statistics, Combinatorics, OOP  
+**Cloud & Deployment:** 
+AWS (EC2, CloudFront), Linux, Windows Server, CI/CD (scripted/cron)  
 **Security & Networking:**  
-TCP/IP, LAN/WAN, DNS, DHCP, Firewall Management, Network Scripting, System Hardening, Vulnerability Mitigation  
-*Hardware experience with Cisco, SonicWall, HP, and Netgear: routers, switches, firewalls, and wireless access points.*
-
+ TCP/IP, DNS, DHCP, Firewall Mgmt, Hardening, Mitigation  
+*Hardware: Cisco, SonicWall, HP, Netgear (routers, switches, firewalls, APs)*
 
 ## <ins>[Work Experience](/pages/work/)</ins>
 
+<<<<<<< HEAD
 ### IT Support Specialist at *Hudson Community Enterprises*
 **January 2025 -> Present**<br>
+=======
+### Systems Administrator at *Hudson Community Enterprises*
+**January 2025 -> Present**<br><br>
+>>>>>>> 716da9f9be0555e2ad241db4ab28aa811eb765fc
 Lead information security projects and ensure network stability across multiple sites.
 
 ### Supplemental Instruction Leader at *Kean University*
-**March 2023 -> January 2025**<br>
+**March 2023 -> January 2025**<br><br>
 Tutored classes of students on object oriented programming, database, statistics, and calculus.
 
 ## <ins>[Projects](/pages/projects/)</ins>
@@ -51,7 +49,5 @@ Designed parallelized versions of common sorting algorithms.
 **Minor in Mathematics**<br>
 Summa Cum Laude<br>
 GPA: 3.9<br>
-
-### Cisco Certified Network Associate (CCNA)
 
 ### CompTIA Security+
