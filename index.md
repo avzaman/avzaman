@@ -19,13 +19,8 @@ AWS (EC2, CloudFront), Linux, Windows Server, CI/CD (scripted/cron)
 
 ## <ins>[Work Experience](/pages/work/)</ins>
 
-<<<<<<< HEAD
 ### IT Support Specialist at *Hudson Community Enterprises*
-**January 2025 -> Present**<br>
-=======
-### Systems Administrator at *Hudson Community Enterprises*
 **January 2025 -> Present**<br><br>
->>>>>>> 716da9f9be0555e2ad241db4ab28aa811eb765fc
 Lead information security projects and ensure network stability across multiple sites.
 
 ### Supplemental Instruction Leader at *Kean University*

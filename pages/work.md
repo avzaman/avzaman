@@ -3,15 +3,9 @@ layout: base.njk
 title: Work Experience
 ---
 
-<<<<<<< HEAD
-## Hudson Community Enterprises
-#### *IT Support Specialist*
-**January 2025 - Present**<br>
-=======
 ## <ins>Hudson Community Enterprises<ins>
-### *IT Systems Administrator*
+### *IT Support Specialist*
 **January 2025 - Present**<br><br>
->>>>>>> 716da9f9be0555e2ad241db4ab28aa811eb765fc
 Led both *infrastructure* and *software* initiatives to support *enterprise IT systems* and streamline internal operations.  
 - Engineered custom *automation scripts* in **PowerShell** and **Java**, improving *system security* and *operational efficiency*.  
 - Maintained and refactored *code* for a *legacy internal web application* to reduce *technical debt* and support ongoing enhancements.  
