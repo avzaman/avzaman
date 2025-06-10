@@ -4,7 +4,7 @@ title: Work Experience
 ---
 
 ## Hudson Community Enterprises
-#### *IT Systems Administrator*
+#### *IT Support Specialist*
 **January 2025 - Present**<br>
 Led both *infrastructure* and *software* initiatives to support *enterprise IT systems* and streamline internal operations.  
 - Engineered custom *automation scripts* in **PowerShell** and **Java**, improving *system security* and *operational efficiency*.  

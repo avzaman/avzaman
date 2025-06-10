@@ -26,7 +26,7 @@ TCP/IP, LAN/WAN, DNS, DHCP, Firewall Management, Network Scripting, System Harde
 
 ## <ins>[Work Experience](/pages/work/)</ins>
 
-### Systems Administrator at *Hudson Community Enterprises*
+### IT Support Specialist at *Hudson Community Enterprises*
 **January 2025 -> Present**<br>
 Lead information security projects and ensure network stability across multiple sites.
 
