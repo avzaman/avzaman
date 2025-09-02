@@ -2,7 +2,7 @@
 layout: base.njk
 title: Community
 ---
-## Kean University
+## <ins>Kean University</ins>
 #### *Code Samurai Tutor*
 [***Website***](https://yoda.kean.edu/~samurai/)<br>
 As a code samurai tutor I helped students understand object oriented programming, data structures, algorithms, and operating systems concepts.<br>

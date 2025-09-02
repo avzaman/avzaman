@@ -45,4 +45,6 @@ Designed parallelized versions of common sorting algorithms.
 Summa Cum Laude<br>
 GPA: 3.9<br>
 
+### CompTIA Network+
+
 ### CompTIA Security+
