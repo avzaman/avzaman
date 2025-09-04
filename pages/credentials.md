@@ -12,7 +12,7 @@ NSF STEM Award<br>
 ## <ins>Raritan Valley Community College</ins>
 **A.S. Computer Science**
 ## <ins>CompTIA Network+</ins>
-Verification Code: 7N9H0M7QWMV4K29J
+Verification Code: 7N9H0M7QWMV4K29J<br>
 [Verification Site](http://verify.CompTIA.org)
 ## <ins>CompTIA Security+</ins>
 Verification Code: M3WYWE2SCE14QNKL<br>
