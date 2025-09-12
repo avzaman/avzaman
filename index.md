@@ -2,49 +2,18 @@
 layout: base.njk
 title: Home/Resume
 ---
-## <ins>Skills</ins>
-**Languages:**  
-Java, Python, C/C++, C#, PHP, JavaScript, PowerShell, Bash, HTML, CSS  
-**Databases:**  
-MongoDB, MySQL, PostgreSQL, SQL Server  
-**Engineering & Tools:**    
-Git, REST APIs, Spring Boot, Maven, Apache, IIS, Automation, Debugging, Benchmarking  
-**CS Fundamentals:**    
-Data Structures, Algorithms, OS, Statistics, Combinatorics, OOP  
-**Cloud & Deployment:** 
-AWS (EC2, CloudFront), Linux, Windows Server, CI/CD (scripted/cron)  
-**Security & Networking:**  
- TCP/IP, DNS, DHCP, Firewall Mgmt, Hardening, Mitigation  
-*Hardware: Cisco, SonicWall, HP, Netgear (routers, switches, firewalls, APs)*
+## <ins>Hello!</ins>
+
+My name is Vince! I'm a vivacious IT and computer science fella from Jersey (the New one). I grew up interested in computers and networks which has guided me through my education and into my profession.
+
+I specialize in privacy and automation. Keeping communication secure and efficient benefits Technology in both work and home life.
+
+I am always open to discussions and new opportunities, please feel free to reach out.
+
+This portfolio site is proudly brought to you free of AI generated code and content. The finest bespoke, artisinal, farm-to-web site on the internet!
 
 ## <ins>[Work Experience](/pages/work/)</ins>
 
-### IT Support Specialist at *Hudson Community Enterprises*
-**January 2025 -> Present**<br><br>
-Lead information security projects and ensure network stability across multiple sites.
-
-### Supplemental Instruction Leader at *Kean University*
-**March 2023 -> January 2025**<br><br>
-Tutored classes of students on object oriented programming, database, statistics, and calculus.
-
 ## <ins>[Projects](/pages/projects/)</ins>
 
-### "V" Social Media Site
-Social media website built with PHP and a MongoDB NoSQL database.
-
-### US Utility Rate Disparity Analysis
-Big data statistical and visual analysis of US Census data joined with US Utility data. 
-
-### Optimizing Sorting Algorithms With Parallelism and HPC
-Designed parallelized versions of common sorting algorithms.
-
 ## <ins>[Education](/pages/credentials/)</ins>
-
-### B.S. Computer Science - *Kean University*
-**Minor in Mathematics**<br>
-Summa Cum Laude<br>
-GPA: 3.9<br>
-
-### CompTIA Network+
-
-### CompTIA Security+

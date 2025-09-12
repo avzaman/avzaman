@@ -1,6 +1,6 @@
 ---
 layout: base.njk
-title: Credentials
+title: Education
 ---
 ## <ins>Kean University</ins>
 **B.S. Computer Science, Minor in Mathematics**<br>
