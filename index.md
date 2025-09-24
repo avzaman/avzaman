@@ -16,4 +16,4 @@ This portfolio site is proudly brought to you free of AI generated code and cont
 
 ## <ins>[Projects](/pages/projects/)</ins>
 
-## <ins>[Education](/pages/credentials/)</ins>
+## <ins>[Education](/pages/education/)</ins>

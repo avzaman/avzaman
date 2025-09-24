@@ -2,6 +2,8 @@
 layout: base.njk
 title: Education
 ---
+## <ins>Rutgers University</ins>
+**M.S. Computer Science**<br>
 ## <ins>Kean University</ins>
 **B.S. Computer Science, Minor in Mathematics**<br>
 Summa Cum Laude<br>
