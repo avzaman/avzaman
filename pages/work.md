@@ -19,7 +19,7 @@ At Hudson I resolve end user tickets as well as set up and maintain all parts of
 And these are on top of handling the day-to-day like fixing scanners (there are a lot of scanners), upgrading older servers, gauging users' experience with the current tech setup, and so on.
 
 ## <ins>Kean University<ins>
-### *Supplemental Instruction Leader*
+### *Teaching Assistant*
 **March 2023 - January 2025**<br><br>
 At Kean I got the chance to tutor students from all walks of life on math and computer science topics. From stats to calc to operating systems to databases. I learned a lot myself while getting to meet new people. These are additional responsibilities I had:
 
