@@ -10,7 +10,7 @@ I specialize in privacy and automation. Keeping communication secure and efficie
 
 I am always open to discussions and new opportunities, please feel free to reach out.
 
-This portfolio site is proudly brought to you free of AI generated code and content. The finest bespoke, artisinal, farm-to-web site on the internet!
+This portfolio site is proudly brought to you free of AI generated code and content. The finest bespoke, artisinal, farm-to-server site on the internet!
 
 ## <ins>[Work Experience](/pages/work/)</ins>
 
