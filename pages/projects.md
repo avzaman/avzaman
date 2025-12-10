@@ -10,7 +10,6 @@ Experimenting with **security features** and **scalability**, I've been learning
 
 ## <ins>"V" Social Media Site Clone of X (Formerly Twitter)</ins>
 [***GitHub Repo***](https://github.com/avzaman/AvzamanSocial)<br>
-[***Live App***](https://d173s6iimxj6sw.cloudfront.net/AvzamanSocial/social-feed.php)<br>
 For an independent study on **NoSQL databases**, I decided to create a project to back (and track haha) my knowledge.  
 With the focus being on getting used to **CRUD** and *system design*, I used a web scripting language I am mostly familiar with: **PHP**.  
 Contrary to popular belief, **PHP** is still quite powerful and bridges web-based languages from **Java** better than **JavaScript** does (which is weird — it's in the name, isn't it?).  
