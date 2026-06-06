@@ -2,10 +2,23 @@
 layout: base.njk
 title: Work Experience
 ---
+## <ins>CAIT Rutgers University<ins>
+### *Graduate Intern*
+**May 2026 - Present**
+- Ensure infrastructure compliance to Federal and University guidlines for a software startup in the Rutgers incubater. Checks for FedRAMP and other standards.
+- Suported developers in acquiring University resources to plug into platform including cloud services and Gemini AI services.
+- Data Mined survey results for bridge workers to identify population needs.
+- Prepared visualizations from survey results to present relevant findings in publications.
+
+## <ins>WINLAB Rutgers University<ins>
+### *Graduate Wireless Researcher*
+**May 2026 - August 2026**
+- Studied and presented innovations from recent conference publications for Blind MIMO and Quantum/Physics inspired computing weekly.
+- Implemented Quantum/Physics inspired algorithms to optimize Blind MIMO wireless technology using GNU Radio and SDR on specialized FPGA hardware.
 
 ## <ins>Hudson Community Enterprises<ins>
 ### *IT Support Specialist*
-**January 2025 - Present**<br><br>
+**January 2025 - May 2026**<br><br>
 At Hudson I resolve end user tickets as well as set up and maintain all parts of the IT infrastructure. Here is a list of projects I have led while there:
 
 - Developed low-to-no cost solution for administrating IT for non-profits remotely with the use of different cloud and open source technologies. This includes Remote Monitoring and Management, authentication solutions, and security policy enforcement. This involved working with Docker containers, configuring public and local DNS, orchestrating services to run on different operating systems in the same domain, and a lot of documentation sifting.

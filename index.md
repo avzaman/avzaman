@@ -4,16 +4,8 @@ title: Home/Resume
 ---
 ## <ins>Hello!</ins>
 
-My name is Vince! I'm a vivacious IT and computer science fella from Jersey (the New one). I grew up interested in computers and networks which has guided me through my education and into my profession.
+My name is Vince, a tech fella from Jersey (the New one).
 
-I specialize in privacy and automation. Keeping communication secure and efficient benefits Technology in both work and home life.
+I did my undergrad in Computer Science at Kean University doing research and working as a tutor. After that I worked for a year in Jersey City doing IT administrator stuff. Now I'm back at school studying for my Masters in Computer Science at Rutgers University while doing research on quantum and wireless technology.
 
-I am always open to discussions and new opportunities, please feel free to reach out.
-
-This portfolio site is proudly brought to you free of AI generated code and content. The finest bespoke, artisinal, farm-to-server site on the internet!
-
-## <ins>[Work Experience](/pages/work/)</ins>
-
-## <ins>[Projects](/pages/projects/)</ins>
-
-## <ins>[Education](/pages/education/)</ins>
+In my free time I climb rocks, tattoo, and tinker with my home server. I am also a free software advocate.
