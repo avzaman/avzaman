@@ -3,7 +3,7 @@ layout: base.njk
 title: Work Experience
 ---
 ## <ins>CAIT Rutgers University<ins>
-### *Graduate Intern*
+### *IT and Data Analyst*
 **May 2026 - Present**
 - Ensure infrastructure compliance to Federal and University guidlines for a software startup in the Rutgers incubater. Checks for FedRAMP and other standards.
 - Suported developers in acquiring University resources to plug into platform including cloud services and Gemini AI services.
