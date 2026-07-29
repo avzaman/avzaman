@@ -14,7 +14,7 @@ The simulator uses qiskit in python and the mini AES was designed
 to use 4 bit keys instead of 128. 
 
 ## <ins>BeamCannon a Beamcraft Extension</ins>
-[***Github Repo***](https://github.com/avzaman/BeamCannon)
+[***Github Repo***](https://github.com/avzaman/BeamCannon)<br>
 This project was to explore a vulnerability in the beamforming 
 protocol used to establish MIMO connections in comodity WiFi routers. 
 Due to the protocol being in plaintext it is easy for an attacker 
@@ -25,7 +25,7 @@ the MU-MIMO attack is still being explored. The goal is to create
 a software that can generalize the attack to be "plug and play" and 
 hardware agnostic.
 
-## <ins>Graduate Class: Operating Systems</ins>
+## <ins>Graduate Class: Operating Systems Theory</ins>
 [***Github Repo***](https://github.com/avzaman/cs519-sp26)<br>
 I put this class under the "Projects" because the whole semester
 was structured around a few big projects, all of which involved
@@ -49,6 +49,7 @@ can:
 - like/unlike posts
 - view a feed of new posts via pagination
 - view their own and other's profiles
+
 The frontend was made with HTML and CSS. The backend was made
 in PHP. I used MongoDB as the NoSQL database. The website and 
 database were hosted on an AWS EC2 instance and deployed via 
@@ -66,6 +67,7 @@ project plugged 3 major machine learning components together:
 2. Image segmentation model trained using real and generated tumor 
     ultrasounds via the "mean teacher method" to locate tumors.
 3. Classification model to detect if tumors are cancerous or not.
+
 The crux of the project was to improve image segmentation using 
 the synthetic ultrasounds. To increase performance I used different
 optimizers and tuned hyperparameter across 1000s of runs. All training

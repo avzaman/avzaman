@@ -4,7 +4,7 @@ title: Work Experience
 ---
 ## <ins>CAIT Rutgers University<ins>
 ### *IT and Data Analyst*
-**May 2026 - Present**
+**May 2026 - Present**<br><br>
 I work as a technical specialist for a startup in the
 Rutgers incubator program. I am in a leadership role
 tasked with multiple projects. My core responsibilities are:
@@ -14,7 +14,8 @@ tasked with multiple projects. My core responsibilities are:
 2. Set up and maintain cloud hosting infrastructure for 
     the web technology platform.
 3. Research the needs of stakeholders by interviewing and
-    conducting surveys, then datamining to uncover patterns
+    conducting surveys, then datamining to uncover patterns.
+
 My infrastructure related tasks are similar to a cloud admin
 although I am more closely involved with the development team
 to update, upgrade, or migrate infrastructure.
@@ -24,7 +25,7 @@ and stakeholders.
 
 ## <ins>WINLAB Rutgers University<ins>
 ### *Graduate Wireless Researcher*
-**May 2026 - August 2026**
+**May 2026 - August 2026**<br><br>
 My summer of 2026 was spent at the internship program at WINLAB.
 Here I researched applying quantum and physics inspired optimization
 techniques to increase wireless network capacity. The work was both
