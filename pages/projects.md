@@ -4,7 +4,7 @@ title: Project
 ---
 ## <ins>Minimal Quantum Grover's Algorithm Simulator </ins>
 [***Github Repo***](https://github.com/avzaman/Grover_Over_AES)<br>
-[***LinkedIn Post with Paper***](https://www.linkedin.com/posts/avzaman_quantum-cryptography-grovers-search-on-ugcPost-7487522799453028352-gNI6/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAF4kOP0BP6SbfPW_A43AkzKMEBHclWuWKfs)<br>
+[***LinkedIn post with paper***](https://www.linkedin.com/posts/avzaman_quantum-cryptography-grovers-search-on-ugcPost-7487522799453028352-gNI6/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAF4kOP0BP6SbfPW_A43AkzKMEBHclWuWKfs)<br>
 In my first semester at Rutgers \(Spring 2026\) I studied 
 Quantum Computing under Dr.Yipeng Huang. This project was 
 completed over the course of that semester. I explored 
@@ -15,6 +15,7 @@ to use 4 bit keys instead of 128.
 
 ## <ins>BeamCannon a Beamcraft Extension</ins>
 [***Github Repo***](https://github.com/avzaman/BeamCannon)<br>
+[***LinkedIn post with paper***](https://www.linkedin.com/posts/avzaman_amir-vince-zaman-beamforming-exploit-paper-ugcPost-7490193126859468800-HTW5/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAF4kOP0BP6SbfPW_A43AkzKMEBHclWuWKfs)<br>
 This project was to explore a vulnerability in the beamforming 
 protocol used to establish MIMO connections in comodity WiFi routers. 
 Due to the protocol being in plaintext it is easy for an attacker 
