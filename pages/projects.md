@@ -37,7 +37,7 @@ these low level Linux axioms. I wrote several kernel modules,
 compiled the custom kernels, and benchmarked the results.
 
 ## <ins>"V" Social Media Site Clone of X (Formerly Twitter)</ins>
-[Live Demo](https://v.avzaman.dev)<br>
+[***Live Demo***](https://v.avzaman.dev)<br>
 [***GitHub Repo***](https://github.com/avzaman/AvzamanSocial)<br>
 For an independent study at Kean University I worked with my
 advisor 1 on 1 to learn NoSQL database programming. I structured
