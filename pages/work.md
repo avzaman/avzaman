@@ -26,6 +26,7 @@ and stakeholders.
 ## <ins>WINLAB Rutgers University<ins>
 ### *Graduate Wireless Researcher*
 **May 2026 - August 2026**<br><br>
+[***LinkedIn Post***](https://www.linkedin.com/posts/avzaman_this-summer-i-had-an-amazing-experience-as-ugcPost-7492654351673655296-smrs/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAF4kOP0BP6SbfPW_A43AkzKMEBHclWuWKfs)<br>
 My summer of 2026 was spent at the internship program at WINLAB.
 Here I researched applying quantum and physics inspired optimization
 techniques to increase wireless network capacity. The work was both
