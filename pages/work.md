@@ -27,12 +27,14 @@ and stakeholders.
 ### *Graduate Wireless Researcher*
 **May 2026 - August 2026**<br><br>
 [***LinkedIn Post***](https://www.linkedin.com/posts/avzaman_this-summer-i-had-an-amazing-experience-as-ugcPost-7492654351673655296-smrs/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAF4kOP0BP6SbfPW_A43AkzKMEBHclWuWKfs)<br>
+[***Presentation Recording***](https://www.youtube.com/watch?v=XIsjtcmd9kc)<br>
+<br>
 My summer of 2026 was spent at the internship program at WINLAB.
 Here I researched applying quantum and physics inspired optimization
 techniques to increase wireless network capacity. The work was both
 theoretical and practical.
 
-**Theory:**<br>
+Theory:<br>
 I deeply studied one paper discussing an innovation and attempt to
 implement a "Blind MIMO" system. Additionally I studied several
 papers on optimizers, mixed integer quadratic problems, and
@@ -40,7 +42,7 @@ quantum algorithm optimizers. This was in an effort to formulate
 an algorithm or system that could enable a robust and scalable
 Blind MIMO wireless communications system.
 
-**Practical:**<br>
+Implementation:<br>
 My hands-on work during this intership was mainly spent creating
 the wireless simulator in MATLAB used to demonstrate proof
 of concept. I designed a highly modular system that segmented
@@ -58,6 +60,8 @@ node orchestration and prepare the Field Programmable Gate Arrays
 ## <ins>Hudson Community Enterprises<ins>
 ### *IT Support Specialist*
 **January 2025 - May 2026**<br><br>
+[***HCE IT Website***](https://hce.works/it-services/)<br>
+<br>
 At Hudson I resolved end user tickets as well as set up and 
 maintain all parts of the IT infrastructure. Here is a list 
 of projects I have led while there:
@@ -102,6 +106,8 @@ experience with the current tech setup, and so on.
 ## <ins>Kean University<ins>
 ### *Teaching Assistant*
 **March 2023 - January 2025**<br><br>
+[***Kean Tutor Site***](https://libguides.kean.edu/LSS/Tutoring)<br>
+<br>
 At Kean I got the chance to tutor students from all walks 
 of life on math and computer science topics. From stats 
 to calc to operating systems to databases. I learned a 

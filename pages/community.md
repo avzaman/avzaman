@@ -4,6 +4,7 @@ title: Community
 ---
 ## <ins>2600 Magazine</ins>
 #### *Low Cost IT Cookbook For Non-Profits*
+[***2600 Website***](https://www.2600.com/)<br>
 Published the first step in a plan for Non-Profit 
 businesses to use to save on IT costs. The first 
 submission involves handling laptop authentication 
@@ -12,6 +13,7 @@ Workspace and the free tier of Google Cloud.
 
 ## <ins>New Jersey Institute of Technology (NJIT)</ins>
 #### *Judge for Senior Capstone Presentations*
+[***Article of capstone program***](https://news.njit.edu/spring-2026-capstone-showcase-continues-combine-experiential-learning-real-world-solutions)<br>
 The graduating seniors in the IT and Computer Science 
 programs every spring at NJIT take part in a large 
 capstone course where the students work with sponsoring 
