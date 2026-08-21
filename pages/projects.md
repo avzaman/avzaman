@@ -81,7 +81,7 @@ models using IOU and F1 scores.
 [***GitHub Repo***](https://github.com/avzaman/UtilityRateDisparity)<br>
 Through high acedemic standing I was afforded the opportunity to
 conduct National Science Foundation (NSF) grant funded research
-under my professor, Doctor Chin-Yu Huang. Over the course of several
+under my professor, Doctor Ching-Yu Huang. Over the course of several
 month I performed data analysis on US Census data and US Utility Rates
 data to uncover any patterns across millions of records. I used statistical 
 discovery methods such as z-score normalization, Chi-square tests, 
