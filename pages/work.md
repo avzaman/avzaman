@@ -3,7 +3,7 @@ layout: base.njk
 title: Work Experience
 ---
 ## <ins>CAIT Rutgers University<ins>
-### *IT and Data Analyst*
+### *IT and Data Specialist*
 **May 2026 - Present**<br><br>
 I work as a technical specialist for a startup in the
 Rutgers incubator program. I am in a leadership role
