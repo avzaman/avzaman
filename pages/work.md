@@ -2,7 +2,16 @@
 layout: base.njk
 title: Work Experience
 ---
-## <ins>CAIT Rutgers University<ins>
+## <ins>Rutgers University<ins>
+### *Part Time Lecturer*
+**September 2026 - Present**<br><br>
+I hold recitation and office hours for the CS206 undergrad
+course "Intro to Discrete Structures II" under Professor
+Sameneh Hamidi. Aside from lecturing content I prepare tests,
+quizzes, and instructional material, then grade the tests
+and quizzes. This is all for a class of about 50 students.
+
+## <ins>Center of Advanced Infrastructure and Transportation at Rutgers University<ins>
 ### *IT and Data Specialist*
 **May 2026 - Present**<br><br>
 I work as a technical specialist for a startup in the
@@ -23,7 +32,7 @@ My data analyst tasks are spent within python and tableau,
 preparing stats and visualizations for presenting to the PI
 and stakeholders.
 
-## <ins>WINLAB Rutgers University<ins>
+## <ins>WINLAB at Rutgers University<ins>
 ### *Graduate Wireless Researcher*
 **May 2026 - August 2026**<br><br>
 [***LinkedIn Post***](https://www.linkedin.com/posts/avzaman_this-summer-i-had-an-amazing-experience-as-ugcPost-7492654351673655296-smrs/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAF4kOP0BP6SbfPW_A43AkzKMEBHclWuWKfs)<br>
