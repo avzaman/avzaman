@@ -2,6 +2,15 @@
 layout: base.njk
 title: Community
 ---
+## <ins>Rutgers School of Graduate Studies</ins>
+### *CS Grad School Volunteer for Rutgers Grad School Fair*
+Manned a booth at the grad school program discovery
+fair at Rutgers-New Brunswick as a volunteer. Got
+to speak with prospective grad school students and
+tell them about my experience. I also helped them
+understand the application process and the breadth
+of topics the CS graduate school covers.
+
 ## <ins>2600 Magazine</ins>
 #### *Low Cost IT Cookbook For Non-Profits*
 [***2600 Website***](https://www.2600.com/)<br>
